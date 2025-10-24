@@ -46,7 +46,7 @@ git clone https://github.com/ಇದು ನೀನು/first-contributions.git
 cd first-contributions
 ```
 ಈಗ `git checkout` ಆಜ್ಞೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಒಂದು ಶಾಖೆಯನ್ನು ರಚಿಸಿ:
-```
+```bash
 git checkout -b <ನಿಮ್ಮ ಹೊಸ-ಶಾಖೆ-ಹೆಸರನ್ನು ಸೇರಿಸಿ>
 ```
 ಉದಾಹರಣೆಗೆ:
